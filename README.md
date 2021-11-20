@@ -1,6 +1,6 @@
 # CSE 158 Assignment 2
 
-An open ended prediction model.
+A model aimed at predicting upvotes of a given reddit post.
 
 ## Description
   
@@ -18,15 +18,6 @@ Examples of datasets and projects that may be of interest in this assignment wil
 * [NumPy](https://numpy.org)
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org)
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-
-```bash
-#TODO
-```
 
 ## Authors
 
