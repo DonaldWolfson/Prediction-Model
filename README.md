@@ -31,9 +31,6 @@ Examples of datasets and projects that may be of interest in this assignment wil
 ## Authors
 
 * [@DonaldWolfson](https://github.com/DonaldWolfson)
-* [@mrtiggles5](https://github.com/mrtiggles5)
-* [@k3xu](https://github.com/k3xu)
-* [@wolftossH](https://github.com/wolftossH)
 
 ## License
 
