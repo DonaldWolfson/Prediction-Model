@@ -38,4 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* TODO
+* [frontpagemetrics.com](https://frontpagemetrics.com/list-all-subreddits)
+  * Data Used: 2021-11-19.csv
