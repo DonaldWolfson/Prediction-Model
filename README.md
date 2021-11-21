@@ -18,6 +18,7 @@ Examples of datasets and projects that may be of interest in this assignment wil
 * [NumPy](https://numpy.org)
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org)
+* [PRAW](https://praw.readthedocs.io/en/stable/#getting-starteds)
 
 ## Authors
 
@@ -31,3 +32,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * [frontpagemetrics.com](https://frontpagemetrics.com/list-all-subreddits)
   * Data Used: 2021-11-19.csv
+* [CSE 158 Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html#reddit)
+  * Understanding the interplay between titles, content, and communities in social media
+Himabindu Lakkaraju, Julian McAuley, Jure Leskovec
+ICWSM, 2013
+  * Data Used: submissions.csv.gz
