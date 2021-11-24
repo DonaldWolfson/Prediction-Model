@@ -19,6 +19,7 @@ Examples of datasets and projects that may be of interest in this assignment wil
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org)
 * [PRAW](https://praw.readthedocs.io/en/stable/#getting-starteds)
+* [wordcloud](https://pypi.org/project/wordcloud/)
 
 ## Authors
 
