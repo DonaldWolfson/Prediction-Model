@@ -20,6 +20,7 @@ Examples of datasets and projects that may be of interest in this assignment wil
 * [Matplotlib](https://matplotlib.org)
 * [PRAW](https://praw.readthedocs.io/en/stable/#getting-starteds)
 * [wordcloud](https://pypi.org/project/wordcloud/)
+* [nltk](https://www.nltk.org/install.html)
 
 ## Authors
 
