@@ -1,4 +1,4 @@
 config.py
 __pycache__
-*.csv
-data/*.csv
+top_posts.csv
+2021-11-19.csv
