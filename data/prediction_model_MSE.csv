@@ -1,0 +1,6 @@
+date,baseline,mse,features,shuffle_data
+Nov 24,0,385566680.77291423,score|number_of_comments|parts_of_speech|ohe_hour|ohe_week,False
+Nov 25,495341869.3529286,439800995.6540212,score|number_of_comments|parts_of_speech|ohe_hour|ohe_week,True
+Nov 25,500371850.3127061,388030708.21281517,score|number_of_comments|title_length|parts_of_speech|ohe_hour|ohe_week,True
+Nov 26,166498875.02690643,143720978.05786428,score|number_of_comments|title_length|parts_of_speech|ohe_hour|ohe_week,False
+Nov 26,166498875.02690643,143563528.69676885,score|number_of_comments|parts_of_speech|ohe_hour|ohe_week,False
