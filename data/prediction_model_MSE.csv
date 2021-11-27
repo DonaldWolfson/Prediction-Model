@@ -10,5 +10,5 @@ Nov 26,166498875.02690643,147588545.21475923,score|number_of_comments|ohe_hour|o
 Nov 26,166498875.02690643,143969407.97862557,score|number_of_comments|parts_of_speech,False
 Nov 26,166498875.02690643,143563528.69676885,score|number_of_comments|parts_of_speech|ohe_hour|ohe_week,False
 Nov 26,166498875.02690643,143955170.759648,score|number_of_comments|title_word_length|parts_of_speech|ohe_hour|ohe_week,False
-Nov 26,166498875.02690643,143228630.9835587,score|number_of_comments|title_word_length|parts_of_speech|ohe_hour|ohe_week,False
-Nov 26,166498875.02690643,139729425.21009746,score|number_of_comments|title_word_length|parts_of_speech|ohe_hour|ohe_week|600_popular_words,False
+Nov 26,166498875.02690643,143228630.9835587,score|number_of_comments|orginal_content|parts_of_speech|ohe_hour|ohe_week,False
+Nov 26,166498875.02690643,139729425.21009746,score|number_of_comments|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,False
