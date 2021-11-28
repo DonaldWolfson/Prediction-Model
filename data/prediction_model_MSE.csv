@@ -13,3 +13,12 @@ Nov 26,166498875.02690643,143955170.759648,score|number_of_comments|title_word_l
 Nov 26,166498875.02690643,143228630.9835587,score|number_of_comments|orginal_content|parts_of_speech|ohe_hour|ohe_week,False
 Nov 26,166498875.02690643,139729425.21009746,score|number_of_comments|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,False
 Nov 27,499348579.8567941,353417906.0347324,score|number_of_comments|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,350501965.2051315,score|number_of_comments|title_length|title_word_length|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,370939713.73927444,number_of_comments|title_length|title_word_length|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,416686952.7419431,score|title_length|title_word_length|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,350598726.33632827,score|number_of_comments|title_word_length|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,350605817.3823535,score|number_of_comments|title_length|orginal_content|parts_of_speech|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,350653732.7750383,score|number_of_comments|title_length|title_word_length|parts_of_speech|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,351901479.39351195,score|number_of_comments|title_length|title_word_length|orginal_content|ohe_hour|ohe_week|600_popular_words,True
+Nov 28,492722872.17717475,350777364.4646529,score|number_of_comments|title_length|title_word_length|orginal_content|parts_of_speech|600_popular_words,True
+Nov 28,492722872.17717475,375893943.25338405,score|number_of_comments|title_length|title_word_length|orginal_content|parts_of_speech|ohe_hour|ohe_week,True
