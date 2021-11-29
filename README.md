@@ -6,7 +6,7 @@ A linear regression model aimed at finding features that best influence predicti
 
 This repo stores a research project for investigating the influence of different features in a linear regression model that aims to predict a Reddit posts upvotes. The finalized paper can be found in [pdf/Research_Paper.pdf](pdfs/Research_Paper.pdf).
 
-To start, this project web mined the [top 500 subreddits](scripts/top_subreddits.ipynb) based on subsriber count, and then attempts to get there [top 500 posts](scripts/top_posts.ipynb) from the last 365 days. The top 500 subreddits can be found [here](data/top_subreddits.json), and the 246,472 posts can be found [here](data/top_posts.csv.gz).
+To start, this project web mined the [top 500 subreddits](scripts/top_subreddits.ipynb) based on subsriber count, and then attempts to get there [top 500 posts](scripts/top_posts.ipynb) from the last 365 days. The top 500 subreddits can be found [here](data/top_subreddits.json), and the 246,472 posts can be found [here](data/top_posts.csv.gz). NOTE: This data include both SFW and NSFW content, you have been warned.
 
 The finalized prediction model script can be found [here](scripts/prediction_model.ipynb). Numerous scripts were used to optimize, and analyze the script with ablation. This can be found in the [scripts](scripts) folder. Any images produced by the scripts are stored in the [images](images) folder.
 
