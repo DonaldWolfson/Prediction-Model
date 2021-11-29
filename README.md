@@ -1,14 +1,16 @@
 # CSE 158 Assignment 2
 
-A model aimed at predicting upvotes of a given reddit post.
+A linear regression model aimed at finding features that best influence predicting a Reddit post's upvotes.
 
 ## Description
-  
-This is an open-ended assignment in which you are expected to write a detailed report documenting your results. Please submit your solution electronically via gradescope, on or before Nov 30 (Tuesday week 10). This assignment is worth 25% of the final grade.
 
-This assignment may be conducted in groups of 1-4 people. Groups of four are allowed, but possibly consider splitting your project into two groups of two unless you have something in mind in which really benefits from four members. The marking scheme is the same regardless of your group’s size. Make sure to specify the names of all of your group members when submitting. Submissions should be in the form of a written report, which is expected to be at least four pages (double column, 11pt), or roughly 2.5-3 thousand words, plus figures, tables, and equations. See an example template in the lecture slides to get an idea of the length expected.
+This repo stores a research project for investigating the influence of different features in a linear regression model that aims to predict a Reddit posts upvotes. The finalized paper can be found in [pdf/Research_Paper.pdf](pdfs/Research_Paper.pdf).
 
-Examples of datasets and projects that may be of interest in this assignment will be discussed in the lectures, though you may use any dataset you wish (including the ones we used for Assignment 1). For a selection of datasets that I frequently use, see [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html).
+To start, this project web mined the [top 500 subreddits](scripts/top_subreddits.ipynb) based on subsriber count, and then attempts to get there [top 500 posts](scripts/top_posts.ipynb) from the last 365 days. The top 500 subreddits can be found [here](data/top_subreddits.json), and the 246,472 posts can be found [here](data/top_posts.csv.gz).
+
+The finalized prediction model script can be found [here](scripts/prediction_model.ipynb). Numerous scripts were used to optimize, and analyze the script with ablation. This can be found in the [scripts](scripts) folder. Any images produced by the scripts are stored in the [images](images) folder.
+
+This project was a class assignment for Fall 2021, CSE 158, and the assignment description can be found [here](pdfs/Assignment_2.pdf). The approachs and model was inspired by a research paper that can be found [here](pdfs/Research_Paper.pdf), and the dataset this papers utilizes can be found [here](data/submissions.csv.gz).
 
 ## Getting Started
 
