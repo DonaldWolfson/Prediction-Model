@@ -1,4 +1,4 @@
-# CSE 158 Assignment 2
+# Reddit Upvote Prediction Model
 
 A linear regression model aimed at finding features that best influence predicting a Reddit post's upvotes.
 
